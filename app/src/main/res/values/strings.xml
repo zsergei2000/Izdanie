@@ -1,0 +1,30 @@
+<resources>
+    <string name="menu_order_number">Номер заказа</string>
+    <string name="menu_client">Заказчик</string>
+    <string name="menu_order">Заказ</string>
+    <string name="menu_status_1">Статус 1</string>
+    <string name="menu_status_2">Статус 2</string>
+    <string name="menu_status_3">Статус 3</string>
+    <string name="menu_status_4">Статус 4</string>
+    <string name="item_status_1">Ожидает времени</string>
+    <string name="item_status_2">Идет в работу</string>
+    <string name="item_status_3">Печать</string>
+    <string name="item_status_4">Тираж отпечатан</string>
+    <string name="item_status_5">Порезка</string>
+    <string name="item_status_6">Тираж готов</string>
+    <string name="item_status_7">На отправке</string>
+    <string name="item_status_8">Тираж отправлен</string>
+    <string name="sync">Обмен</string>
+    <string name="app_name">Izdanie</string>
+    <string name="action_settings">Settings</string>
+    <string name="head_password">Введите пароль</string>
+    <string name="ok">Ок</string>
+    <string name="cancel">Отмена</string>
+    <string name="post1">Печатник</string>
+    <string name="post2">Порезчик</string>
+    <string name="post3">Логист</string>
+    <string name="user1">Иванов Иван Иванович</string>
+    <string name="user2">Петров Петр Петрович</string>
+    <string name="user3">Сидоров Сидр Сидорович</string>
+
+</resources>
